@@ -1,6 +1,7 @@
 # Psi
 
 * Projet qui regroupe la gestion d'individus et de groupe d'individus dans une université. Les individus sont importable en csv/excel et les individus au seins d'un groupe sont exportable en csv/excel.
+Ce projet dispose aussi d'une api.
 
 ## Installation
 
@@ -21,8 +22,3 @@
 * Laravel Excel
 * Bootsrap
 * Font-awesome
-
-
-## A venir
-
-* api permettant de récuperer des individus au format Json/Xml.
